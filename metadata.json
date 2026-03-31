@@ -1,0 +1,5 @@
+{
+  "name": "A4 Grid Image PDF Generator",
+  "description": "A local browser tool to divide an A4 page into square grids, upload images to cells, and export as PDF.",
+  "requestFramePermissions": []
+}
